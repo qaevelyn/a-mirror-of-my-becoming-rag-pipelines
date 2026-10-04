@@ -31,7 +31,8 @@ Every pipeline reads documents from disk, chunks them, embeds them locally via O
 **Repo:** [a-mirror-of-my-becoming-rag-ship4-ibm-granite-agentic](https://github.com/qaevelyn/a-mirror-of-my-becoming-rag-ship4-ibm-granite-agentic)
 
 **Ship 5** — IBM Granite Agentic RAG + EvidenceFlow. The fifth ship can prove its answers. Every claim is traceable to an evidence ID. Every answer is checked against its sources. If the evidence is missing, the pipeline abstains.
-**Repo:** [a-mirror-of-my-becoming-rag-ship5-ibm-granite-agentic-evidenceflow](https://github.com/qaevelyn/a-mirror-of-my-becoming-rag-ship5-ibm-granite-agentic-evidenceflow)
+- **[Ship 6 — Suite: Ingestion Tools](https://github.com/qaevelyn/a-mirror-of-my-becoming-suite-ingestion-tools)** — the suite that feeds the fleet
+- **[Ship 7 — msgvault adapter](https://github.com/qaevelyn/a-mirror-of-my-becoming-suite-msgvault-adapter)** — the mail bridge**Repo:** [a-mirror-of-my-becoming-rag-ship5-ibm-granite-agentic-evidenceflow](https://github.com/qaevelyn/a-mirror-of-my-becoming-rag-ship5-ibm-granite-agentic-evidenceflow)
 
 ---
 
@@ -63,7 +64,8 @@ To read about the fleet:
 - **The ingestion tools** — [The Cache Is Not the Corpus](https://qaevelyn.github.io/white-papers/the-cache-is-not-the-corpus/).
 - **Ships 1–4 and the DeepSeek platform** — [Case Study: DeepSeek — The Benchmark](https://qaevelyn.github.io/white-papers/deepseek-case-study/).
 - **Ship 5 specifically** — [EvidenceFlow Verification: How Ship 5 Proves Its Answers](https://qaevelyn.github.io/case-studies/evidenceflow-verification-ship5/).
-
+- **[Ship 6 — Suite: Ingestion Tools](https://github.com/qaevelyn/a-mirror-of-my-becoming-suite-ingestion-tools)** — the suite that feeds the fleet
+- **[Ship 7 — msgvault adapter](https://github.com/qaevelyn/a-mirror-of-my-becoming-suite-msgvault-adapter)** — the mail bridge
 Dedicated papers for Ships 1 through 4 individually are in the pipeline.
 
 ---
