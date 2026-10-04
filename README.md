@@ -1,4 +1,4 @@
-# A Mirror of My Becoming — RAG Pipelines
+# A Mirror of My Becoming™ — RAG Pipelines
 
 **Five retrieval-augmented generation pipelines. One MacBook Air. No cloud.**
 
@@ -37,9 +37,9 @@ Every pipeline reads documents from disk, chunks them, embeds them locally via O
 
 ## How the fleet fits together
 
-**A Mirror of My Becoming** is a sovereign AI practice. The RAG pipelines are one part of it. The tooling that feeds the pipelines is another. The papers are another.
+**A Mirror of My Becoming™** is a sovereign AI practice. The RAG pipelines are one part of it. The tooling that feeds the pipelines is another. The papers are another.
 
-- **[A Mirror of My Becoming](https://github.com/qaevelyn/a-mirror-of-my-becoming)** — the parent index. Everything in the fleet is linked from there.
+- **[A Mirror of My Becoming™](https://github.com/qaevelyn/a-mirror-of-my-becoming)** — the parent index. Everything in the fleet is linked from there.
 - **[Suite: Ingestion Tools](https://github.com/qaevelyn/a-mirror-of-my-becoming-suite-ingestion-tools)** — the tooling that gets documents into the vector store the pipelines read from.
 - **[The Cache Is Not the Corpus](https://qaevelyn.github.io/white-papers/the-cache-is-not-the-corpus/)** — the paper on the ingestion tools' design.
 - **[EvidenceFlow Verification: How Ship 5 Proves Its Answers](https://qaevelyn.github.io/case-studies/evidenceflow-verification-ship5/)** — the paper on Ship 5.
