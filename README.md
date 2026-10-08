@@ -37,7 +37,7 @@ Every pipeline reads documents from disk, chunks them, embeds them locally via O
 **Repo** [Ship 6 — Suite: Ingestion Tools](https://github.com/qaevelyn/a-mirror-of-my-becoming-suite-ingestion-tools)** — the suite that feeds the fleet.
   
 **Ship 7** of A Mirror of My Becoming™. Built October 2026 on an 8 GB Intel MacBook Air. Reads msgvault.db (SQLite mail archive), normalizes RFC822 message-ids, preserves full metadata, and feeds the canonical Chroma store with nomic-embed-text vectors — the fleet's model. The embed_gen watermark is built into msgvault's own schema: progress lives in the data itself. Crash, restart, curfew, resume — never re-ingest, never duplicate. 
-- **[Ship 7 — msgvault adapter](https://github.com/qaevelyn/a-mirror-of-my-becoming-suite-msgvault-adapter)** — the mail bridge**Repo:** [a-mirror-of-my-becoming-rag-ship5-ibm-granite-agentic-evidenceflow](https://github.com/qaevelyn/a-mirror-of-my-becoming-rag-ship5-ibm-granite-agentic-evidenceflow)
+**[Ship 7 — msgvault adapter](https://github.com/qaevelyn/a-mirror-of-my-becoming-suite-msgvault-adapter)** — the mail bridge.
 
 ---
 
